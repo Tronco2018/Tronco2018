@@ -2,4 +2,4 @@
 - 👀 I’m interested in ...(python games and apps)
 - 🌱 I’m currently learning ...(python)
 - 💞️ I’m looking to collaborate on ... (python projects)
-- 📫 How to reach me ...(Discord ---> Tronco2018#4372)
+- 📫 How to reach me ...(Discord ---> Tronco2018)
