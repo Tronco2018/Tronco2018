@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Tronco2018
-- 👀 I’m interested in ...(python games and apps)
-- 🌱 I’m currently learning ...(python)
-- 💞️ I’m looking to collaborate on ... (python projects)
-- 📫 How to reach me ...(Discord ---> tronco2018_)
+🟢⚪🛑14M Italian Student
+🖥️Aspirant web developer
+☕Bad at java
