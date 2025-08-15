@@ -1,3 +1,2 @@
-🟢⚪🛑14M Italian Student
-🖥️Aspirant web developer
-☕Bad at java
+### 🟢⚪🛑15 year old italian Student
+### ☕ Passionate about coding and IT
