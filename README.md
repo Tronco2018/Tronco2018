@@ -6,8 +6,6 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tronco2018_?igsh=eXIyMXF5M2gxMWxo) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23ff4d00.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Tronco2018/)
-<div align="center">
-  <img src="https://camo.githubusercontent.com/cccc14860ce6b0c3fbf2b6a50565ba3f38de101a360e4e7eb963f690d06b2dcf/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457863544a7a4d4731346133497965577730636e593264476b334f477879627a6c7265445a32646e4a6962334670644855336132687164695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f35654c4472456152474865677832466546322f67697068792e676966">
 </div>
 
 
