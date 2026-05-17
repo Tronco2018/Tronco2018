@@ -25,7 +25,7 @@
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="[[https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/960px-Lua-Logo.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/960px-Lua-Logo.svg.png)" alt="Lua" style="max-width:65px; height:auto;" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/960px-Lua-Logo.svg.png" alt="Lua" style="max-width:65px; height:auto;" />
       <br>Lua
     </td>
     <td align="center" width="96">
