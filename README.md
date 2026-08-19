@@ -25,6 +25,14 @@
       <br>C++
     </td>
     <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1920px-C_Programming_Language.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="C" width="65" height="65" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="ASM" width="65" height="65" />
+        <br>ASM
+    </td>
+    <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/960px-Lua-Logo.svg.png" alt="Lua" style="max-width:65px; height:auto;" />
       <br>Lua
     </td>
