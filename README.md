@@ -75,16 +75,16 @@
 </table>
 
 ## ![](https://komarev.com/ghpvc/?username=tronco2018)
-
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tronco2018&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tronco2018&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tronco2018&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+-->
 
 
 ![](https://github.com/LikemDzokoto/LikemDzokoto/blob/main/source.gif)
-
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tronco2018&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+-->
